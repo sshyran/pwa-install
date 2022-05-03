@@ -226,3 +226,4 @@ class Example extends FASTElement {
   </script>
 </body>
 ```
+.
